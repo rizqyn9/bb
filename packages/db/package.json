@@ -29,8 +29,8 @@
     "@bb/config": "workspace:*",
     "@bb/domain": "workspace:*",
     "better-sqlite3": "12.10.0",
-    "drizzle-orm": "^0.38.0",
-    "nanoid": "^5.0.9"
+    "drizzle-orm": "^0.45.2",
+    "nanoid": "^5.1.16"
   },
   "devDependencies": {
     "@bb/tsconfig": "workspace:*",
