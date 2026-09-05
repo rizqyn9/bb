@@ -19,7 +19,7 @@
     "test": "vitest run --config vitest.config.ts"
   },
   "dependencies": {
-    "drizzle-orm": "^0.38.0"
+    "drizzle-orm": "^0.45.2"
   },
   "devDependencies": {
     "@bb/tsconfig": "workspace:*",
